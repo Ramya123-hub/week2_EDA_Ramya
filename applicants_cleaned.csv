@@ -1,0 +1,101 @@
+Applicant Name,Email,Phone,Domain Applied,University,Application Date,Status
+Anjali Das,applicant2@example.com,9876510001,Web Development,Not Specified,2026-05-12,Under Review
+Sravani Rao,applicant3@example.com,9876510002,Web Development,Andhra University,2026-05-15,Under Review
+Ramya Pulugurtha,applicant4@example.com,9876510003,Web Development,ABC University,2026-05-13,Under Review
+Deepika Singh,applicant5@example.com,9876510004,Web Development,Andhra University,2026-05-13,Under Review
+Sravani Rao,applicant6@example.com,9876510005,AI,ABC University,2026-05-15,Under Review
+Vikram Reddy,applicant7@example.com,9876510006,Web Development,ABC University,2026-05-15,Selected
+Vikram Reddy,applicant8@example.com,9876510007,Web Development,ABC University,2026-05-14,Under Review
+Sneha Reddy,applicant9@example.com,9876510008,AI,BABA Institute,2026-05-14,Selected
+Deepika Singh,applicant10@example.com,9876510009,Data Science,BABA Institute,2026-05-15,Under Review
+Rahul Sharma,applicant11@example.com,9876510010,AI,BABA Institute,2026-05-14,Under Review
+Sneha Reddy,applicant13@example.com,9876510012,Web Development,Not Specified,2026-05-13,Selected
+Sneha Reddy,applicant14@example.com,9876510013,Data Science,BABA Institute,2026-05-15,Selected
+Sai Krishna,applicant15@example.com,9876510014,Cloud Computing,XYZ College,2026-05-13,Selected
+Kavya Sharma,applicant16@example.com,9876510015,Data Science,Not Specified,2026-05-14,Under Review
+Sneha Reddy,applicant17@example.com,9876510016,Cyber Security,Not Specified,2026-05-13,Under Review
+Anjali Das,applicant18@example.com,9876510017,Web Development,KL University,2026-05-15,Selected
+Sravani Rao,applicant19@example.com,9876510018,Data Science,Not Specified,2026-05-14,Under Review
+Anjali Das,applicant20@example.com,9876510019,Web Development,XYZ College,2026-05-15,Selected
+Sneha Reddy,applicant21@example.com,9876510020,Data Science,Andhra University,2026-05-14,Selected
+Nisha Patel,applicant22@example.com,9876510021,AI,Not Specified,2026-05-15,Selected
+Harsha Vardhan,applicant24@example.com,9876510023,AI,Andhra University,2026-05-15,Selected
+Anjali Das,applicant25@example.com,9876510024,Web Development,Not Specified,2026-05-15,Under Review
+Akhil Kumar,applicant26@example.com,9876510025,Web Development,ABC University,2026-05-13,Under Review
+Pooja Reddy,applicant27@example.com,9876510026,Cyber Security,BABA Institute,2026-05-15,Rejected
+Deepika Singh,applicant28@example.com,9876510027,AI,Andhra University,2026-05-14,Under Review
+Ramya Pulugurtha,applicant29@example.com,9876510028,Cloud Computing,Not Specified,2026-05-12,Under Review
+Sravani Rao,applicant30@example.com,9876510029,Data Science,Not Specified,2026-05-14,Under Review
+Meena Patel,applicant31@example.com,9876510030,AI,ABC University,2026-05-15,Under Review
+Vikram Reddy,applicant32@example.com,9876510031,Cyber Security,ABC University,2026-05-12,Under Review
+Meena Patel,applicant33@example.com,9876510032,Cloud Computing,Andhra University,2026-05-13,Selected
+Arjun Rao,applicant35@example.com,9876510034,AI,BABA Institute,2026-05-12,Selected
+Meena Patel,applicant36@example.com,9876510035,Data Science,BABA Institute,2026-05-13,Under Review
+Sneha Reddy,applicant37@example.com,9876510036,Web Development,Not Specified,2026-05-15,Under Review
+Sravani Rao,applicant38@example.com,9876510037,Web Development,ABC University,2026-05-15,Under Review
+Divya Rao,applicant39@example.com,9876510038,Data Science,Andhra University,2026-05-15,Selected
+Sravani Rao,applicant40@example.com,9876510039,Data Science,Not Specified,2026-05-14,Rejected
+Kavya Sharma,applicant41@example.com,9876510040,AI,Andhra University,2026-05-15,Under Review
+Anjali Das,applicant42@example.com,9876510041,Data Science,BABA Institute,2026-05-14,Under Review
+Harsha Vardhan,applicant43@example.com,9876510042,Cyber Security,ABC University,2026-05-13,Under Review
+Sneha Reddy,applicant44@example.com,9876510043,Cloud Computing,BABA Institute,2026-05-13,Under Review
+Nisha Patel,applicant46@example.com,9876510045,Data Science,Andhra University,2026-05-13,Under Review
+Harsha Vardhan,applicant47@example.com,9876510046,Cyber Security,KL University,2026-05-13,Rejected
+Pooja Reddy,applicant48@example.com,9876510047,Data Science,BABA Institute,2026-05-12,Under Review
+Pooja Reddy,applicant49@example.com,9876510048,AI,Not Specified,2026-05-15,Rejected
+Akhil Kumar,applicant50@example.com,9876510049,Cloud Computing,Not Specified,2026-05-12,Under Review
+Rohit Kumar,applicant51@example.com,9876510050,AI,BABA Institute,2026-05-13,Selected
+Kiran Kumar,applicant52@example.com,9876510051,Cyber Security,KL University,2026-05-13,Rejected
+Divya Rao,applicant53@example.com,9876510052,Data Science,KL University,2026-05-13,Under Review
+Sai Krishna,applicant54@example.com,9876510053,Cyber Security,BABA Institute,2026-05-12,Under Review
+Sravani Rao,applicant55@example.com,9876510054,Web Development,BABA Institute,2026-05-13,Selected
+Akhil Kumar,applicant57@example.com,9876510056,Web Development,KL University,2026-05-12,Rejected
+Vikram Reddy,applicant58@example.com,9876510057,AI,XYZ College,2026-05-15,Under Review
+Sravani Rao,applicant59@example.com,9876510058,Cloud Computing,Not Specified,2026-05-15,Selected
+Kiran Kumar,applicant60@example.com,9876510059,Data Science,ABC University,2026-05-12,Under Review
+Sravani Rao,applicant61@example.com,9876510060,Web Development,Not Specified,2026-05-14,Under Review
+Akhil Kumar,applicant62@example.com,9876510061,Cyber Security,KL University,2026-05-13,Under Review
+Manoj Das,applicant63@example.com,9876510062,Web Development,ABC University,2026-05-12,Under Review
+Sneha Reddy,applicant64@example.com,9876510063,Cloud Computing,ABC University,2026-05-15,Under Review
+Harsha Vardhan,applicant65@example.com,9876510064,Data Science,Andhra University,2026-05-12,Under Review
+Sneha Reddy,applicant66@example.com,9876510065,AI,Not Specified,2026-05-14,Selected
+Vikram Reddy,applicant68@example.com,9876510067,AI,ABC University,2026-05-14,Rejected
+Arjun Rao,applicant69@example.com,9876510068,Web Development,BABA Institute,2026-05-15,Under Review
+Harsha Vardhan,applicant70@example.com,9876510069,Web Development,BABA Institute,2026-05-13,Under Review
+Vikram Reddy,applicant71@example.com,9876510070,Web Development,XYZ College,2026-05-12,Selected
+Kavya Sharma,applicant72@example.com,9876510071,Data Science,ABC University,2026-05-15,Under Review
+Meena Patel,applicant73@example.com,9876510072,Cyber Security,Not Specified,2026-05-12,Under Review
+Sravani Rao,applicant74@example.com,9876510073,Data Science,Not Specified,2026-05-12,Selected
+Vikram Reddy,applicant75@example.com,9876510074,Web Development,BABA Institute,2026-05-13,Selected
+Meena Patel,applicant76@example.com,9876510075,Cyber Security,ABC University,2026-05-14,Under Review
+Vikram Reddy,applicant77@example.com,9876510076,Cyber Security,KL University,2026-05-14,Under Review
+Ramya Pulugurtha,applicant79@example.com,9876510078,AI,ABC University,2026-05-14,Selected
+Sai Krishna,applicant80@example.com,9876510079,Cyber Security,Not Specified,2026-05-15,Under Review
+Ramya Pulugurtha,applicant81@example.com,9876510080,Web Development,BABA Institute,2026-05-13,Under Review
+Akhil Kumar,applicant82@example.com,9876510081,AI,Andhra University,2026-05-13,Rejected
+Priya Singh,applicant83@example.com,9876510082,Web Development,XYZ College,2026-05-14,Under Review
+Kavya Sharma,applicant84@example.com,9876510083,Data Science,Not Specified,2026-05-13,Under Review
+Rahul Sharma,applicant85@example.com,9876510084,AI,Not Specified,2026-05-15,Under Review
+Priya Singh,applicant86@example.com,9876510085,Data Science,ABC University,2026-05-13,Rejected
+Ramya Pulugurtha,applicant87@example.com,9876510086,Web Development,Not Specified,2026-05-14,Rejected
+Anjali Das,applicant88@example.com,9876510087,Data Science,ABC University,2026-05-12,Rejected
+Kavya Sharma,applicant90@example.com,9876510089,Data Science,ABC University,2026-05-13,Under Review
+Kiran Kumar,applicant91@example.com,9876510090,AI,XYZ College,2026-05-14,Under Review
+Vikram Reddy,applicant92@example.com,9876510091,AI,Not Specified,2026-05-15,Under Review
+Sravani Rao,applicant93@example.com,9876510092,AI,BABA Institute,2026-05-12,Selected
+Divya Rao,applicant94@example.com,9876510093,Cyber Security,XYZ College,2026-05-12,Under Review
+Deepika Singh,applicant95@example.com,9876510094,AI,XYZ College,2026-05-14,Rejected
+Deepika Singh,applicant96@example.com,9876510095,Cyber Security,BABA Institute,2026-05-15,Under Review
+Kiran Kumar,applicant97@example.com,9876510096,Data Science,Not Specified,2026-05-15,Under Review
+Manoj Das,applicant98@example.com,9876510097,Cyber Security,Not Specified,2026-05-13,Selected
+Pooja Reddy,applicant99@example.com,9876510098,Web Development,Not Specified,2026-05-14,Under Review
+Rahul Sharma,not provided,9876510000,Web Development,Not Specified,2026-05-14,Under Review
+Deepika Singh,not provided,9876510011,AI,Andhra University,2026-05-13,Under Review
+Vikram Reddy,not provided,9876510022,Web Development,ABC University,2026-05-14,Under Review
+Kavya Sharma,not provided,9876510033,Web Development,Andhra University,2026-05-12,Under Review
+Akhil Kumar,not provided,9876510044,AI,BABA Institute,2026-05-13,Selected
+Pooja Reddy,not provided,9876510055,AI,KL University,2026-05-13,Rejected
+Kiran Kumar,not provided,9876510066,Cloud Computing,Not Specified,2026-05-14,Selected
+Sneha Reddy,not provided,9876510077,Cloud Computing,KL University,2026-05-14,Under Review
+Akhil Kumar,not provided,9876510088,AI,ABC University,2026-05-13,Rejected
+Arjun Rao,not provided,9876510099,Cloud Computing,BABA Institute,2026-05-14,Under Review
